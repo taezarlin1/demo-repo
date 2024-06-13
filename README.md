@@ -1,3 +1,5 @@
 # Demo
 
-Some Descriptions.... !
+Some Descriptions!
+
+Watch tutorial on Youtube.
