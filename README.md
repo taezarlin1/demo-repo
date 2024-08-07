@@ -1,6 +1,6 @@
-# Demo
+# Readme
 
-Some Descriptions!
+This repository is for JavaScript tutorials!
 
 ## Subheader
 
@@ -8,4 +8,4 @@ Watch tutorial on Youtube.
 
 ## Local Development
 
-1. Open index.html in your browser
+You can clone this repository
